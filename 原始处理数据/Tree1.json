@@ -1,0 +1,169 @@
+{
+  "label": "C21 <= 37.500\n-1.575 value",
+  "": "",
+  "id": "split0",
+  "children": [
+    {
+      "label": "C21 <= 32.500\n-1.566 value",
+      "": "",
+      "id": "split1",
+      "children": [
+        {
+          "label": "C17 <= 1910.000\n-1.572 value",
+          "": "",
+          "id": "split13",
+          "children": [
+            {
+              "label": "C21 <= 18.000\n-1.574 value",
+              "": "",
+              "id": "split14",
+              "children": [
+                {
+                  "label": "leaf 0: -1.564",
+                  "id": "leaf0"
+                },
+                {
+                  "label": "leaf 15: -1.575",
+                  "id": "leaf15"
+                }
+              ]
+            },
+            {
+              "label": "leaf 14: -1.570",
+              "id": "leaf14"
+            }
+          ]
+        },
+        {
+          "label": "leaf 2: -1.552",
+          "id": "leaf2"
+        }
+      ]
+    },
+    {
+      "label": "C17 <= 1944.500\n-1.577 value",
+      "": "",
+      "id": "split2",
+      "children": [
+        {
+          "label": "C14 <= 15701.500\n-1.574 value",
+          "": "",
+          "id": "split10",
+          "children": [
+            {
+              "label": "C14 <= 15016.500\n-1.571 value",
+              "": "",
+              "id": "split11",
+              "children": [
+                {
+                  "label": "leaf 1: -1.585",
+                  "id": "leaf1"
+                },
+                {
+                  "label": "leaf 12: -1.571",
+                  "id": "leaf12"
+                }
+              ]
+            },
+            {
+              "label": "leaf 11: -1.575",
+              "id": "leaf11"
+            }
+          ]
+        },
+        {
+          "label": "C21 <= 56.500\n-1.580 value",
+          "": "",
+          "id": "split3",
+          "children": [
+            {
+              "label": "C14 <= 19757.000\n-1.573 value",
+              "": "",
+              "id": "split4",
+              "children": [
+                {
+                  "label": "C1 <= 1003.500\n-1.560 value",
+                  "": "",
+                  "id": "split12",
+                  "children": [
+                    {
+                      "label": "leaf 3: -1.568",
+                      "id": "leaf3"
+                    },
+                    {
+                      "label": "leaf 13: -1.553",
+                      "id": "leaf13"
+                    }
+                  ]
+                },
+                {
+                  "label": "leaf 5: -1.577",
+                  "id": "leaf5"
+                }
+              ]
+            },
+            {
+              "label": "C1 <= 1003.500\n-1.582 value",
+              "": "",
+              "id": "split5",
+              "children": [
+                {
+                  "label": "C19 <= 162.000\n-1.570 value",
+                  "": "",
+                  "id": "split6",
+                  "children": [
+                    {
+                      "label": "leaf 4: -1.585",
+                      "id": "leaf4"
+                    },
+                    {
+                      "label": "leaf 7: -1.559",
+                      "id": "leaf7"
+                    }
+                  ]
+                },
+                {
+                  "label": "banner_pos <= 0.000\n-1.582 value",
+                  "": "",
+                  "id": "split7",
+                  "children": [
+                    {
+                      "label": "leaf 6: -1.583",
+                      "id": "leaf6"
+                    },
+                    {
+                      "label": "C14 <= 20578.000\n-1.579 value",
+                      "": "",
+                      "id": "split8",
+                      "children": [
+                        {
+                          "label": "C14 <= 20357.000\n-1.574 value",
+                          "": "",
+                          "id": "split9",
+                          "children": [
+                            {
+                              "label": "leaf 8: -1.578",
+                              "id": "leaf8"
+                            },
+                            {
+                              "label": "leaf 10: -1.568",
+                              "id": "leaf10"
+                            }
+                          ]
+                        },
+                        {
+                          "label": "leaf 9: -1.583",
+                          "id": "leaf9"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

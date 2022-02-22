@@ -1,0 +1,85 @@
+.el-input__inner::-webkit-input-placeholder {
+    color: #000;
+    /* text-align:center; 位置 */
+}
+/* 利用穿透，设置input边框隐藏 */
+.inputDeep>>>.el-input__inner {
+    border: 0;
+}
+.keycss{
+  /* width: 20px;
+height: 30px; */
+transform: rotate(90deg);
+-webkit-transform: rotate(-90deg);
+/* Safari 和 Chrome */
+}
+
+/*阴影*/
+#sun,#TSNE,#tableinfo,#radar,#feature,#NE,#feature_scatter,#dataflowview{
+border-radius:7px;
+border:#909090 0px solid;
+background:rgb(49, 49, 49);
+color:#333;
+/* filter:progid:DXImageTransform.Microsoft.Shadow(color=#909090,direction=120,strength=4);
+-moz-box-shadow: 2px 2px 10px #909090;
+-webkit-box-shadow: 2px 2px 10px #909090;
+box-shadow:2px 2px 10px #909090; */
+}
+h1{
+color:#fff;
+}
+.el-input__inner{
+  background-color:rgb(80, 80, 80);
+  border:#909090 0px solid;
+  color:#FFF;
+}
+
+.el-input__inner::placeholder {
+  color: #fff;
+}
+/* 谷歌 */
+.el-input__inner::-webkit-input-placeholder {
+  color: #fff;
+}
+/* 火狐 */
+.el-input__inner:-moz-placeholder {
+  color: #fff;
+}
+/*ie*/
+.el-input__inner:-ms-input-placeholder {
+  color: #fff;
+}
+
+/* .el-table, .el-table__expanded-cell {
+  background-color: transparent;
+} */
+
+.el-table th, .el-table tr {
+  background-color: rgb(80, 80, 80);
+  color:#FFF;
+}
+/*表格高亮*/
+.el-table--enable-row-hover .el-table__body tr:hover>td{
+  background-color:#09b0d3 !important;
+}
+.el-table__body-wrapper.is-scrolling-left{
+  background-color:rgb(80, 80, 80) !important;
+}
+
+
+  /*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+::-webkit-scrollbar {
+/* width: 17px; 滚动条宽度 */
+/* height: 17px; 滚动条高度 */
+/* background-color: rgb(0, 12, 46); */
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+/* -webkit-box-shadow: inset 0 0 6px rgba(216, 39, 39, 0.3); */
+/* background-color: rgb(0, 12, 46); 滚动条的背景颜色 */
+}
+
+g text tspan{
+  fill:#FFF;
+}

@@ -1,0 +1,8 @@
+#feature_scatter,#tableinfo,#tree_select,#feature_view,#c14_charts,
+#c21_charts,#c16_charts,#c17_charts,#c18_charts,#ban_charts,#device_conn_type_charts{
+    border:1px solid rgba(161, 155, 155, 0.507);
+    border-radius:7px;
+}
+#titlea,#titleb,#titlec{ 
+    font-family: 'Cooper Black'
+}

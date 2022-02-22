@@ -1,0 +1,169 @@
+{
+  "label": "C21 <= 37.500\n0.000 value",
+  "": "",
+  "id": "split0",
+  "children": [
+    {
+      "label": "C21 <= 32.500\n0.004 value",
+      "": "",
+      "id": "split2",
+      "children": [
+        {
+          "label": "C14 <= 1272.500\n0.001 value",
+          "": "",
+          "id": "split9",
+          "children": [
+            {
+              "label": "leaf 0: 0.014",
+              "id": "leaf0"
+            },
+            {
+              "label": "device_conn_type <= 0.000\n0.001 value",
+              "": "",
+              "id": "split10",
+              "children": [
+                {
+                  "label": "C17 <= 2041.000\n0.002 value",
+                  "": "",
+                  "id": "split14",
+                  "children": [
+                    {
+                      "label": "leaf 10: 0.000",
+                      "id": "leaf10"
+                    },
+                    {
+                      "label": "leaf 15: 0.004",
+                      "id": "leaf15"
+                    }
+                  ]
+                },
+                {
+                  "label": "leaf 11: -0.007",
+                  "id": "leaf11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "leaf 3: 0.010",
+          "id": "leaf3"
+        }
+      ]
+    },
+    {
+      "label": "C17 <= 1944.500\n-0.001 value",
+      "": "",
+      "id": "split1",
+      "children": [
+        {
+          "label": "C18 <= 0.000\n0.001 value",
+          "": "",
+          "id": "split11",
+          "children": [
+            {
+              "label": "C1 <= 1003.500\n0.001 value",
+              "": "",
+              "id": "split12",
+              "children": [
+                {
+                  "label": "leaf 1: -0.012",
+                  "id": "leaf1"
+                },
+                {
+                  "label": "leaf 13: 0.001",
+                  "id": "leaf13"
+                }
+              ]
+            },
+            {
+              "label": "leaf 12: -0.008",
+              "id": "leaf12"
+            }
+          ]
+        },
+        {
+          "label": "C21 <= 56.500\n-0.004 value",
+          "": "",
+          "id": "split3",
+          "children": [
+            {
+              "label": "C14 <= 19757.000\n0.001 value",
+              "": "",
+              "id": "split4",
+              "children": [
+                {
+                  "label": "leaf 2: 0.008",
+                  "id": "leaf2"
+                },
+                {
+                  "label": "leaf 5: -0.002",
+                  "id": "leaf5"
+                }
+              ]
+            },
+            {
+              "label": "C21 <= 136.500\n-0.005 value",
+              "": "",
+              "id": "split5",
+              "children": [
+                {
+                  "label": "leaf 4: -0.008",
+                  "id": "leaf4"
+                },
+                {
+                  "label": "C14 <= 21255.500\n-0.004 value",
+                  "": "",
+                  "id": "split6",
+                  "children": [
+                    {
+                      "label": "banner_pos <= 0.000\n-0.004 value",
+                      "": "",
+                      "id": "split7",
+                      "children": [
+                        {
+                          "label": "leaf 6: -0.005",
+                          "id": "leaf6"
+                        },
+                        {
+                          "label": "C14 <= 20357.000\n0.000 value",
+                          "": "",
+                          "id": "split8",
+                          "children": [
+                            {
+                              "label": "leaf 8: -0.004",
+                              "id": "leaf8"
+                            },
+                            {
+                              "label": "C14 <= 20364.000\n0.003 value",
+                              "": "",
+                              "id": "split13",
+                              "children": [
+                                {
+                                  "label": "leaf 9: 0.009",
+                                  "id": "leaf9"
+                                },
+                                {
+                                  "label": "leaf 14: -0.000",
+                                  "id": "leaf14"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "label": "leaf 7: 0.009",
+                      "id": "leaf7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
